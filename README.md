@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Digvijaysingh8/Python_DSA_Leetcode/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/Digvijaysingh8/Python_DSA_Leetcode/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
@@ -18,5 +19,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Digvijaysingh8/Python_DSA_Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Digvijaysingh8/Python_DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Digvijaysingh8/Python_DSA_Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
